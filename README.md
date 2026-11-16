@@ -6,7 +6,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="Обо мне"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Языки"></picture>
 
 <a href="https://github.com/sinvides/sinvides"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sinvides-dark.svg"><img src="assets/project-sinvides-light.svg" width="49%" alt="sinvides"></picture></a>&nbsp;<a href="https://github.com/sinvides/whyed_core"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-whyed-core-dark.svg"><img src="assets/project-whyed-core-light.svg" width="49%" alt="whyed_core"></picture></a>
 

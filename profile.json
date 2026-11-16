@@ -51,39 +51,109 @@
     ]
   },
   "stack": {
-    "title": "Tech stack",
+    "title": "Языки",
     "groups": [
       {
-        "title": "Main",
+        "title": "Основной стек ",
         "items": [
           {
             "icon": "brand:typescript",
             "label": "TypeScript"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
+            "icon": "brand:javascript",
+            "label": "JavaScript"
           },
           {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
           }
         ]
       },
       {
-        "title": "Tools",
+        "title": "Фронтенд",
+        "items": [
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
+          }
+        ]
+      },
+      {
+        "title": "Бэкенд ",
+        "items": [
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:mongodb",
+            "label": "MongoDB"
+          },
+          {
+            "icon": "brand:pinterest",
+            "label": "REST API"
+          },
+          {
+            "icon": "brand:apollographql",
+            "label": "GraphQL"
+          }
+        ]
+      },
+      {
+        "title": "Инструменты и инфраструк",
         "items": [
           {
             "icon": "brand:git",
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
+            "icon": "brand:docker",
+            "label": "Docker"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:archlinux",
+            "label": "Arch Linux"
+          },
+          {
+            "icon": "brand:vercel",
+            "label": "Vercel"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
           }
         ]
       }
